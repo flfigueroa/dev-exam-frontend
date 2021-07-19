@@ -28,7 +28,7 @@ The following were used in creating the web application:
 Install the dependencies and start the web application.
 
 ```sh
-cd frontend
+cd dev-exam-frontend
 npm i
 npm run serve
 ```
@@ -40,7 +40,7 @@ your preferred browser.
 http://localhost:8080/
 ```
 > Note: 
-> Make sure the `backend` is also running to fully use the web application.
+> Make sure the `dev-exam-backend` is also running to fully use the web application.
 
-
-
+## Snippets
+![Demo](snippets/frontend.gif)
